@@ -12,6 +12,7 @@ Serviços:
 7. Pesquisar voos
 8. Efetuar compra
 
+Explicação do Sistema:
 Foi implementado um banco de dados(postgress) e um container com o sistema operacional Linux Ubuntu, isso irá permitir acesso às chamadas dos endpoints através da porta 5000.
 
 
