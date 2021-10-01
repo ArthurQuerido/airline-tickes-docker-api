@@ -1,6 +1,6 @@
-# airline-tickes-docker-api
+### airline-tickes-docker-api
 
-# Sistema de venda de passagens aéreas
+### Sistema de venda de passagens aéreas - ASA
 
 Serviços: 
 1. Efetuar login 
@@ -12,5 +12,6 @@ Serviços:
 7. Pesquisar voos
 8. Efetuar compra
 
-Foi implementado um banco de dados postgress e um container com o sistema operacional Linux Ubuntu, permitindo acesso às chamadas dos endpoints através da porta 5000.
+Foi implementado um banco de dados(postgress) e um container com o sistema operacional Linux Ubuntu, isso irá permitir acesso às chamadas dos endpoints através da porta 5000.
+
 
